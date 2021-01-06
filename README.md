@@ -1,2 +1,3 @@
 # HobbyKart
-Ecommerce App using MERN Stack
+Ecommerce App using MERN Stack.
+Work IN Progress
