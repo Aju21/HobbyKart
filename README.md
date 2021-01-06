@@ -1,2 +1,2 @@
 # HobbyKart
-MERN Stack
+Ecommerce App using MERN Stack
